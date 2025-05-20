@@ -1,0 +1,222 @@
+ls
+cd repogit/
+ls
+cd UTN-FRA_SO_onBording/
+ls
+cd ..
+pwd
+ls 
+echo $HOME
+pwd
+whoami
+ls
+apropos ssh
+ls
+cd $HOME
+ls
+cd ..
+cd ubuntu/
+sudo cd ubuntu
+cd vagrant/
+ls
+cat README 
+cd carpeta_compartida/
+ls
+tac script_Enable_ssh_password.sh 
+cd ..
+ls
+clear
+cat -help
+ls
+cat --help
+cd
+ls
+cd carpeta_compartida/
+ls
+cd ..
+ls
+pwd
+ls
+cd repogit/
+ls
+cd ..
+ls
+cat $HOME/.ssh/*.pub
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+cd repogit/
+git clone git@github.com:pibelanzallamas/TP_AySO.git
+ls
+git clone git@github.com:pibelanzallamas/TP_AySO.git
+cd TP_AySO/
+ls
+rm Historial_comandos_\<Castiilo\>.txt 
+ls
+history
+ls
+clear
+ls
+clear
+ls
+cd ..
+ls
+cd ..
+ls
+clear
+ls
+clear
+cd repogit/
+clear
+ls
+clear
+mkdir -p {alumnos,docentes}/{comision,textos}
+ls
+ls alumnos/
+ls docentes/
+ls
+cd TP_AySO/
+ls
+exit
+git status
+ls
+cd repogit/
+cd TP_AySO/
+ls
+cat datos_usuario.txt 
+cat datos_ususarios.txt >> datos_usuario.txt
+ls -la
+cat datos_usuarios.txt
+cat datos_usuarios.txt | datos_usuario.txt
+cat datos_usuarios.txt >> datos_usuario.txt
+cat datos_usuario.txt
+clear
+ls
+clear
+ls
+cat .txt
+cat *.txt
+rm datos_usuarios.txt 
+ls
+ls -l
+mkdir jaja
+ls -l
+rmdir jaja
+tree
+cd ..
+ls
+apt install tree
+sudo apt install tree
+sudo snap install tree
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+cd ..
+ls
+mkdir -p materia1/{uni1,uni2,uni3} material/{uni1,uni2,uni3}
+ls
+mv material materia2
+ls
+ls -la
+tree
+ls
+cd repogit/
+ls
+cd ..
+nano README 
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+cat README.md 
+ls
+git status
+ls
+touch script_dir.sh
+ls
+ls -l
+rm *.sh
+ls
+nano script_dir.sh
+cdls
+ls
+repogit
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+nano script_dir.sh 
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+sudo chmod a+x script_dir.sh 
+ls
+git add .
+git commit -m "ADD: Añadiendo script"
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+cat script_dir.sh 
+git log
+git status
+cd ..
+ls
+cd ..
+cd repogit/
+git status
+ls
+rm -r TP_AySO/
+ls
+cd repogit/
+cd ..
+tree
+cd repogit/
+ls
+cd TP_AySO/
+git status
+cd ..
+git clone git@github.com:pibelanzallamas/TP_AySO.git
+rm -r TP_AySO/
+ls
+rm -r TP_AySO/
+;s
+ls 
+ls TP_AySO/
+ls
+rmdir TP_AySO/
+rm -r TP_AySO/
+ls
+ls rm -r TP_AySO/
+rm -r TP_AySO/
+ls
+git clone git@github.com:pibelanzallamas/TP_AySO.git
+git status
+ls
+cd ..
+ls
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+ls
+cat $HOME/.ssh/*.pub
+ls
+cd repogit/
+ls
+git clone git@github.com:pibelanzallamas/TP_AySO.git
+cd TP_AySO/
+ls
+nano script_dir.sh
+ls
+git add .
+git commit -m "ADD: Añadiendo script"
+git config --global user.email "brandoncastillo.09@gmail.com"
+git config --global user.name "Brandon Castillo"
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
